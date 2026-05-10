@@ -1,0 +1,17 @@
+{
+  "n_eval": 81,
+  "n_probe_flipped": 26,
+  "probe_flip_rate": 0.32098765432098764,
+  "probe_flip_rate_wilson95": [
+    0.22942074394347284,
+    0.4287658060508694
+  ],
+  "n_behavior_flipped": 29,
+  "behavior_flip_rate": 0.35802469135802467,
+  "behavior_flip_rate_wilson95": [
+    0.26223516972228395,
+    0.4666714044111599
+  ],
+  "n_probe_and_behavior_flipped": 14,
+  "concordance_behavior_given_probe_flip": 0.5384615384615384
+}
