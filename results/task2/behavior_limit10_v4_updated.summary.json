@@ -1,0 +1,20 @@
+{
+  "n_eval": 10,
+  "n_behavior_flipped": 4,
+  "behavior_flip_rate": 0.4,
+  "behavior_flip_rate_wilson95": [
+    0.16817758120350967,
+    0.6873304525498135
+  ],
+  "n_probe_flipped": 1,
+  "probe_flip_rate": 0.1,
+  "probe_flip_rate_wilson95": [
+    0.01787574951572113,
+    0.4041563854975721
+  ],
+  "concordance_behavior_given_probe_flip": 1.0,
+  "input_jsonl": "/scratch/trait_disrupt_local_test/results_limit10_v4_updated.jsonl",
+  "output_jsonl": "/scratch/trait_disrupt_local_test/behavior_limit10_v4_updated.jsonl",
+  "judge_model": "gpt-4.1-mini",
+  "max_new_tokens": 256
+}

@@ -1,0 +1,24 @@
+# Huge artifacts
+*.pt
+*.pth
+*.safetensors
+*.bin
+*.onnx
+*.npy
+*.npz
+
+# Caches
+__pycache__/
+*.pyc
+.cache/
+wandb/
+
+# Local secrets
+.env
+*.key
+
+# Huge extract/activation folders
+extracts/
+activations/
+traits40_activations/
+hackathon_extracts/

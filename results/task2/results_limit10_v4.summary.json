@@ -1,0 +1,9 @@
+{
+  "n_eval": 10,
+  "n_probe_flipped": 0,
+  "probe_flip_rate": 0.0,
+  "mean_final_probe_prob": 0.8582773825835022,
+  "mean_n_total_edits": 40.7,
+  "editor_model": "gpt-4.1-mini",
+  "note": "prompt-specific local_test uses contribution-weighted trait projections and our trait-projection refusal probe."
+}

@@ -1,0 +1,19 @@
+{
+  "n_eval": 10,
+  "n_probe_flipped": 0,
+  "probe_flip_rate": 0.0,
+  "mean_final_probe_prob": 0.8944317715914837,
+  "mean_n_total_edits": 0.0,
+  "target_traits": [
+    "vindictive",
+    "theoretical",
+    "introspective",
+    "passive_aggressive",
+    "anxious",
+    "creative",
+    "detached",
+    "literal"
+  ],
+  "editor_model": "gpt-4.1-mini",
+  "note": "local_test uses our trait-projection refusal probe, not the hidden official reference probe."
+}

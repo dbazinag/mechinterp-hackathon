@@ -1,0 +1,670 @@
+{
+  "refusal_gemma4_31b": {
+    "top_positive": [
+      {
+        "trait": "vindictive",
+        "coef": 0.8707952499389648
+      },
+      {
+        "trait": "theoretical",
+        "coef": 0.8134867548942566
+      },
+      {
+        "trait": "introspective",
+        "coef": 0.7638163566589355
+      },
+      {
+        "trait": "passive_aggressive",
+        "coef": 0.7603035569190979
+      },
+      {
+        "trait": "anxious",
+        "coef": 0.7516886591911316
+      },
+      {
+        "trait": "creative",
+        "coef": 0.7048571705818176
+      },
+      {
+        "trait": "detached",
+        "coef": 0.6762516498565674
+      },
+      {
+        "trait": "literal",
+        "coef": 0.6270729303359985
+      },
+      {
+        "trait": "hostile",
+        "coef": 0.6157940030097961
+      },
+      {
+        "trait": "edgy",
+        "coef": 0.6052983999252319
+      },
+      {
+        "trait": "emotional",
+        "coef": 0.5838460326194763
+      },
+      {
+        "trait": "reserved",
+        "coef": 0.5681235790252686
+      },
+      {
+        "trait": "fatalistic",
+        "coef": 0.4653986990451813
+      },
+      {
+        "trait": "judgmental",
+        "coef": 0.4632825553417206
+      },
+      {
+        "trait": "descriptive",
+        "coef": 0.4443826675415039
+      },
+      {
+        "trait": "pluralist",
+        "coef": 0.44326329231262207
+      },
+      {
+        "trait": "eloquent",
+        "coef": 0.4198630750179291
+      },
+      {
+        "trait": "introverted",
+        "coef": 0.4127906560897827
+      },
+      {
+        "trait": "curious",
+        "coef": 0.40813949704170227
+      },
+      {
+        "trait": "meditative",
+        "coef": 0.40727725625038147
+      }
+    ],
+    "top_negative": [
+      {
+        "trait": "principled",
+        "coef": -1.2651481628417969
+      },
+      {
+        "trait": "paradoxical",
+        "coef": -1.1600373983383179
+      },
+      {
+        "trait": "blunt",
+        "coef": -1.0606610774993896
+      },
+      {
+        "trait": "open_ended",
+        "coef": -0.9638256430625916
+      },
+      {
+        "trait": "ironic",
+        "coef": -0.9590526819229126
+      },
+      {
+        "trait": "transparent",
+        "coef": -0.8120270371437073
+      },
+      {
+        "trait": "extroverted",
+        "coef": -0.7840316295623779
+      },
+      {
+        "trait": "witty",
+        "coef": -0.7332322001457214
+      },
+      {
+        "trait": "goofy",
+        "coef": -0.7104552388191223
+      },
+      {
+        "trait": "egalitarian",
+        "coef": -0.6796033978462219
+      },
+      {
+        "trait": "innovative",
+        "coef": -0.673812747001648
+      },
+      {
+        "trait": "gregarious",
+        "coef": -0.6513433456420898
+      },
+      {
+        "trait": "avoidant",
+        "coef": -0.6416867971420288
+      },
+      {
+        "trait": "reductionist",
+        "coef": -0.5998035669326782
+      },
+      {
+        "trait": "resilient",
+        "coef": -0.5582916736602783
+      },
+      {
+        "trait": "cautious",
+        "coef": -0.5271187424659729
+      },
+      {
+        "trait": "collectivistic",
+        "coef": -0.4966377913951874
+      },
+      {
+        "trait": "improvisational",
+        "coef": -0.48810020089149475
+      },
+      {
+        "trait": "sycophantic",
+        "coef": -0.4867173433303833
+      },
+      {
+        "trait": "essentialist",
+        "coef": -0.4690030813217163
+      }
+    ],
+    "assistant_axis_coef": 0.003470806172117591
+  },
+  "cyber_probe_1_dual_use_vs_benign": {
+    "top_positive": [
+      {
+        "trait": "confrontational",
+        "coef": 1.8356101512908936
+      },
+      {
+        "trait": "flexible",
+        "coef": 1.529759407043457
+      },
+      {
+        "trait": "individualistic",
+        "coef": 1.5090508460998535
+      },
+      {
+        "trait": "utilitarian",
+        "coef": 1.4486697912216187
+      },
+      {
+        "trait": "technical",
+        "coef": 1.4393810033798218
+      },
+      {
+        "trait": "resilient",
+        "coef": 1.3323372602462769
+      },
+      {
+        "trait": "urgent",
+        "coef": 1.2918345928192139
+      },
+      {
+        "trait": "inquisitive",
+        "coef": 1.081868290901184
+      },
+      {
+        "trait": "acerbic",
+        "coef": 1.009358525276184
+      },
+      {
+        "trait": "evil",
+        "coef": 0.9862393736839294
+      },
+      {
+        "trait": "futuristic",
+        "coef": 0.9666017293930054
+      },
+      {
+        "trait": "grandiose",
+        "coef": 0.9446667432785034
+      },
+      {
+        "trait": "dispassionate",
+        "coef": 0.936233401298523
+      },
+      {
+        "trait": "manipulative",
+        "coef": 0.899680495262146
+      },
+      {
+        "trait": "chill",
+        "coef": 0.8836254477500916
+      },
+      {
+        "trait": "reverent",
+        "coef": 0.8713666796684265
+      },
+      {
+        "trait": "blunt",
+        "coef": 0.8691347241401672
+      },
+      {
+        "trait": "edgy",
+        "coef": 0.8573823571205139
+      },
+      {
+        "trait": "cosmopolitan",
+        "coef": 0.8414580225944519
+      },
+      {
+        "trait": "militant",
+        "coef": 0.8384512662887573
+      }
+    ],
+    "top_negative": [
+      {
+        "trait": "reductionist",
+        "coef": -1.3293297290802002
+      },
+      {
+        "trait": "exploratory",
+        "coef": -1.2793382406234741
+      },
+      {
+        "trait": "progressive",
+        "coef": -1.2451467514038086
+      },
+      {
+        "trait": "judgmental",
+        "coef": -1.2271779775619507
+      },
+      {
+        "trait": "poetic",
+        "coef": -1.0290277004241943
+      },
+      {
+        "trait": "confident",
+        "coef": -1.0283156633377075
+      },
+      {
+        "trait": "decisive",
+        "coef": -0.9320956468582153
+      },
+      {
+        "trait": "cautious",
+        "coef": -0.9185945391654968
+      },
+      {
+        "trait": "assertive",
+        "coef": -0.9108513593673706
+      },
+      {
+        "trait": "obsessive",
+        "coef": -0.8581229448318481
+      },
+      {
+        "trait": "flirty",
+        "coef": -0.8353131413459778
+      },
+      {
+        "trait": "stream_of_consciousness",
+        "coef": -0.800502359867096
+      },
+      {
+        "trait": "benevolent",
+        "coef": -0.7667585015296936
+      },
+      {
+        "trait": "esoteric",
+        "coef": -0.7578657269477844
+      },
+      {
+        "trait": "regulatory",
+        "coef": -0.7427663803100586
+      },
+      {
+        "trait": "ritualistic",
+        "coef": -0.6629583835601807
+      },
+      {
+        "trait": "universalist",
+        "coef": -0.6627213954925537
+      },
+      {
+        "trait": "risk_taking",
+        "coef": -0.6598084568977356
+      },
+      {
+        "trait": "understated",
+        "coef": -0.6330312490463257
+      },
+      {
+        "trait": "pedantic",
+        "coef": -0.614052951335907
+      }
+    ],
+    "assistant_axis_coef": 0.003781900741159916
+  },
+  "cyber_probe_2_hdu_vs_du_benign": {
+    "top_positive": [
+      {
+        "trait": "acerbic",
+        "coef": 1.9477804899215698
+      },
+      {
+        "trait": "technical",
+        "coef": 1.9443780183792114
+      },
+      {
+        "trait": "theoretical",
+        "coef": 1.7735637426376343
+      },
+      {
+        "trait": "evil",
+        "coef": 1.6681710481643677
+      },
+      {
+        "trait": "improvisational",
+        "coef": 1.4632797241210938
+      },
+      {
+        "trait": "speculative",
+        "coef": 1.447544813156128
+      },
+      {
+        "trait": "reverent",
+        "coef": 1.4471594095230103
+      },
+      {
+        "trait": "independent",
+        "coef": 1.403244972229004
+      },
+      {
+        "trait": "individualistic",
+        "coef": 1.3964452743530273
+      },
+      {
+        "trait": "descriptive",
+        "coef": 1.3665944337844849
+      },
+      {
+        "trait": "deconstructionist",
+        "coef": 1.340112328529358
+      },
+      {
+        "trait": "calm",
+        "coef": 1.3138583898544312
+      },
+      {
+        "trait": "cynical",
+        "coef": 1.308090329170227
+      },
+      {
+        "trait": "mercurial",
+        "coef": 1.2744224071502686
+      },
+      {
+        "trait": "futuristic",
+        "coef": 1.22551429271698
+      },
+      {
+        "trait": "inquisitive",
+        "coef": 1.1914740800857544
+      },
+      {
+        "trait": "confrontational",
+        "coef": 1.1658306121826172
+      },
+      {
+        "trait": "hostile",
+        "coef": 1.1267451047897339
+      },
+      {
+        "trait": "flexible",
+        "coef": 1.067886471748352
+      },
+      {
+        "trait": "anthropocentric",
+        "coef": 1.067054033279419
+      }
+    ],
+    "top_negative": [
+      {
+        "trait": "cautious",
+        "coef": -2.0877456665039062
+      },
+      {
+        "trait": "ascetic",
+        "coef": -1.7840638160705566
+      },
+      {
+        "trait": "confident",
+        "coef": -1.7301794290542603
+      },
+      {
+        "trait": "serene",
+        "coef": -1.651316523551941
+      },
+      {
+        "trait": "sassy",
+        "coef": -1.4854280948638916
+      },
+      {
+        "trait": "risk_taking",
+        "coef": -1.4778019189834595
+      },
+      {
+        "trait": "open_ended",
+        "coef": -1.3818305730819702
+      },
+      {
+        "trait": "closure_seeking",
+        "coef": -1.3351517915725708
+      },
+      {
+        "trait": "subversive",
+        "coef": -1.2604117393493652
+      },
+      {
+        "trait": "pedantic",
+        "coef": -1.1597657203674316
+      },
+      {
+        "trait": "perfectionist",
+        "coef": -1.1522140502929688
+      },
+      {
+        "trait": "benevolent",
+        "coef": -1.1318248510360718
+      },
+      {
+        "trait": "problem_solving",
+        "coef": -1.1297026872634888
+      },
+      {
+        "trait": "idealistic",
+        "coef": -1.067440390586853
+      },
+      {
+        "trait": "holistic",
+        "coef": -1.0453599691390991
+      },
+      {
+        "trait": "collectivistic",
+        "coef": -0.9916802644729614
+      },
+      {
+        "trait": "deontological",
+        "coef": -0.9732152819633484
+      },
+      {
+        "trait": "environmental",
+        "coef": -0.9461097121238708
+      },
+      {
+        "trait": "assertive",
+        "coef": -0.8927336931228638
+      },
+      {
+        "trait": "inclusive",
+        "coef": -0.8311864137649536
+      }
+    ],
+    "assistant_axis_coef": 0.10154000669717789
+  },
+  "cyber_probe_3_prohibited_vs_rest": {
+    "top_positive": [
+      {
+        "trait": "reverent",
+        "coef": 3.2201874256134033
+      },
+      {
+        "trait": "confrontational",
+        "coef": 2.22676944732666
+      },
+      {
+        "trait": "deconstructionist",
+        "coef": 2.163449287414551
+      },
+      {
+        "trait": "impulsive",
+        "coef": 1.9364577531814575
+      },
+      {
+        "trait": "ethereal",
+        "coef": 1.7122414112091064
+      },
+      {
+        "trait": "cynical",
+        "coef": 1.5301467180252075
+      },
+      {
+        "trait": "innovative",
+        "coef": 1.5268971920013428
+      },
+      {
+        "trait": "reserved",
+        "coef": 1.5051639080047607
+      },
+      {
+        "trait": "charismatic",
+        "coef": 1.3841972351074219
+      },
+      {
+        "trait": "avoidant",
+        "coef": 1.3361480236053467
+      },
+      {
+        "trait": "divergent",
+        "coef": 1.2612426280975342
+      },
+      {
+        "trait": "experiential",
+        "coef": 1.180031418800354
+      },
+      {
+        "trait": "conscientious",
+        "coef": 1.179175853729248
+      },
+      {
+        "trait": "obsessive",
+        "coef": 1.1614335775375366
+      },
+      {
+        "trait": "radical",
+        "coef": 1.1575108766555786
+      },
+      {
+        "trait": "prescriptive",
+        "coef": 1.0966541767120361
+      },
+      {
+        "trait": "metaphorical",
+        "coef": 1.0837271213531494
+      },
+      {
+        "trait": "formalist",
+        "coef": 1.0720560550689697
+      },
+      {
+        "trait": "flippant",
+        "coef": 1.0429332256317139
+      },
+      {
+        "trait": "sassy",
+        "coef": 1.0406217575073242
+      }
+    ],
+    "top_negative": [
+      {
+        "trait": "zealous",
+        "coef": -2.5523502826690674
+      },
+      {
+        "trait": "intuitive",
+        "coef": -2.196976661682129
+      },
+      {
+        "trait": "sardonic",
+        "coef": -1.9010785818099976
+      },
+      {
+        "trait": "regulatory",
+        "coef": -1.8753550052642822
+      },
+      {
+        "trait": "environmental",
+        "coef": -1.8244431018829346
+      },
+      {
+        "trait": "ascetic",
+        "coef": -1.7719988822937012
+      },
+      {
+        "trait": "enigmatic",
+        "coef": -1.7013781070709229
+      },
+      {
+        "trait": "irreverent",
+        "coef": -1.6754176616668701
+      },
+      {
+        "trait": "provocative",
+        "coef": -1.623273253440857
+      },
+      {
+        "trait": "deontological",
+        "coef": -1.5327751636505127
+      },
+      {
+        "trait": "risk_taking",
+        "coef": -1.5246235132217407
+      },
+      {
+        "trait": "serene",
+        "coef": -1.519383192062378
+      },
+      {
+        "trait": "conciliatory",
+        "coef": -1.49308180809021
+      },
+      {
+        "trait": "moderate",
+        "coef": -1.4638042449951172
+      },
+      {
+        "trait": "open_ended",
+        "coef": -1.4370360374450684
+      },
+      {
+        "trait": "dogmatic",
+        "coef": -1.3291853666305542
+      },
+      {
+        "trait": "gregarious",
+        "coef": -1.327549934387207
+      },
+      {
+        "trait": "relativist",
+        "coef": -1.3233132362365723
+      },
+      {
+        "trait": "savage",
+        "coef": -1.2856501340866089
+      },
+      {
+        "trait": "verbose",
+        "coef": -1.2825229167938232
+      }
+    ],
+    "assistant_axis_coef": -0.11026331037282944
+  }
+}
